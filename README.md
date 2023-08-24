@@ -30,8 +30,6 @@ The following software needs to be installed on your computer:
 
 Once you have completed that process, edit this file (README.md) by pressing the pencil icon.
 
-I have edited this file, I don't know what to do when it says "edit" so this is what I am putting.
-
 Once you have finished editing README.md, press the "Commit Changes" button at the bottom of the page. On the main page for this repository, copy the URL (it should be in the form: `https://github.com/[username]/Exercise-1.0-Install-Software`), and submit that as the URL for the exercise on Canvas.
 
 The final state of this file should be as follows (replacing my information with yours). If you have any problems installing the software, note it at the bottom:
@@ -39,16 +37,16 @@ The final state of this file should be as follows (replacing my information with
 # Exercise 01a: Install Software
 
 ## My name is:
-Jason Francis
+Max Bailey
 
 ## My gamedev.stackexchange.com user number is:
-5338
+173808
 
 ## My github username is:
-BL-MSCH-C220
-
+MB-Game-Design
 ## My replit username is:
-BL-MSCH-C220
+MB-Game-Design
 
 ## I have installed the software on my computer as a part of the exercise
+I have installed it. 
 ```
